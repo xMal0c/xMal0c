@@ -20,7 +20,3 @@ A selection of my work can be viewed in my repo, so why wouldn't you take a look
 #### Currently specialised in:
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,react,vite,nextjs,appwrite,firebase,mysql,nodejs,tailwind,bootstrap,npm,php)](https://google.com)
-
-
-##### Additional:
-[![My Skills](https://skillicons.dev/icons?i=xd,figma)](https://google.com)
