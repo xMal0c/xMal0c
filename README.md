@@ -6,7 +6,7 @@
 
 
 ### What am I doing?
-<p>Currently studying software engineering in vocational school, based in Salo, Finland. <br>
+<p>Currently studying software development in vocational school, based in Salo, Finland. <br>
 While pursuing my studies, I am making swift and significant progress towards becoming a full-stack developer. <br>
 A selection of my work can be viewed in my repo, so why wouldn't you take a look at it 😉</p>
 
