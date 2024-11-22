@@ -6,17 +6,16 @@
 
 
 ### What am I doing?
-<p>Currently studying software development in vocational school, based in Salo, Finland. <br>
-While pursuing my studies, I am making swift and significant progress towards becoming a full-stack developer. <br>
-A selection of my work can be viewed in my repo, so why wouldn't you take a look at it 😉</p>
-
+I am currently focusing on creating websites and sharpening my skills as a full stack developer.
+<p>🚀 I'm passionate about crafting clean, functional, and user-friendly web solutions.</p>
+<p>📂 A selection of my work is available here in my repositories—feel free to explore!</p>
 <br>
 
 ### Reaching me
-<p>You can reach me via my email which is linked in the bio, or by visiting <a href="https://codewize.fi" target="_blank">my website!</a></p>
+<p>You can reach me via my email which is linked in the bio, or by visiting <a href="https://codewize.fi" style="color: #FFE111;" target="_blank"><code>my website!</code></a></p>
 
 <br>
 
 #### Currently specialised in:
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,nextjs,appwrite,firebase,mysql,nodejs,tailwind,bootstrap,npm,php)](https://google.com)
+[![My Skills](https://skillicons.dev/icons?i=js,react,nextjs,appwrite,firebase,mysql,nodejs,tailwind,bootstrap,npm,php,wordpress)](https://google.com)
