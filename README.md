@@ -18,4 +18,4 @@ I am currently focusing on creating websites and sharpening my skills as a full 
 
 #### Currently specialised in:
 
-[![My Skills](https://skillicons.dev/icons?i=js,react,nextjs,appwrite,firebase,mysql,nodejs,tailwind,bootstrap,npm,php,wordpress)](https://google.com)
+[![My Skills](https://skillicons.dev/icons?i=js,react,nextjs,appwrite,astro,firebase,mysql,nodejs,tailwind,bootstrap,npm,php,wordpress)](https://google.com)
