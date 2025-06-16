@@ -2,7 +2,7 @@
 <h1>Hi there!</h1>
 
 ### Who am I?
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=600&size=32&duration=2500&pause=5000&color=FFE111&random=false&width=435&height=80&lines=JONATAN+OWIZYC;FULLSTACK+DEV)](https://github.com/xMal0c)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Playfair+Display&size=32&duration=2800&pause=1200&color=00B1AC&width=435&lines=Jonatan+Owizyc;Frontend+developer)](https://codewize.fi)
 
 
 ### What am I doing?
