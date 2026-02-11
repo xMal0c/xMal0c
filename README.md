@@ -19,7 +19,7 @@ Always happy to chat about tech, design, or project ideas!
 
 #### Technologies & tools I work with:
 
-[![My Skills](https://skillicons.dev/icons?i=js,react,nextjs,firebase,tailwind)](https://google.com)
+[![My Skills](https://skillicons.dev/icons?i=js,react,nextjs,firebase,supabase,tailwind)](https://google.com)
 
 ---
 
